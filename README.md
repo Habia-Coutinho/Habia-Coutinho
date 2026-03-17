@@ -9,7 +9,7 @@
 
 ## 🧠 About me
 
-@{ Sou apaixonada por tecnologia e gosto de entender como as coisas funcionam }
+> Sou apaixonada por tecnologia e gosto de entender como as coisas funcionam 
 
 + 👩‍💻 28 anos  
 + 🇧🇷 Brasil  
