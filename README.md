@@ -1,4 +1,4 @@
-# Hi, I'm Hábia Coutinho 👋
+# Hi, I'm Hábia 👋
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer+in+Training;Learning+HTML+CSS+JavaScript;Building+Projects+Every+Day)
 
@@ -13,7 +13,6 @@
 
 > I am passionate about technology and enjoy understanding how things work.
 
-- 👩‍💻 28 years old  
 - 🇧🇷 Brazil  
 - 💻 Studying Front-End Development  
 - 🌱 Always learning something new  
