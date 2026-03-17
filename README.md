@@ -1,31 +1,33 @@
-# Olá, eu sou Hábia Coutinho 👋
+# Hi, I'm Hábia Coutinho 👋
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas  
-💜 Apaixonada por tecnologia  
-🌱 Aprendendo desenvolvimento Front-End  
-🎯 Construindo projetos para evoluir como desenvolvedora  
-
----
-
-## 🧠 About me
-
-> Sou apaixonada por tecnologia e gosto de entender como as coisas funcionam 
-
-+ 👩‍💻 28 anos  
-+ 🇧🇷 Brasil  
-+ 💻 Estudando desenvolvimento Front-End  
-+ 🌱 Sempre aprendendo algo novo  
-
-# Interessada em
-
-- Desenvolvimento Web
-- Interfaces e UX
-- Aplicações responsivas
-- Acessibilidade na web
+💻 Systems Analysis and Development student  
+💜 Passionate about technology  
+🌱 Currently learning Front-End development  
+🎯 Building projects to improve as a developer  
 
 ---
 
-## ⚙️ Tecnologias que estou estudando
+## 🧠 About Me
+
+> I am passionate about technology and enjoy understanding how things work.
+
+- 👩‍💻 28 years old  
+- 🇧🇷 Brazil  
+- 💻 Studying Front-End Development  
+- 🌱 Always learning something new  
+
+---
+
+## 🎯 Interests
+
+- Web Development  
+- Interfaces and UX  
+- Responsive Applications  
+- Web Accessibility  
+
+---
+
+## ⚙️ Technologies I’m Studying
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -43,15 +45,15 @@
 
 ---
 
-## 🛠️ Ferramentas
+## 🛠️ Tools
 
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habia-Coutinho&show_icons=true&theme=tokyonight)
 
@@ -59,13 +61,13 @@
 
 ---
 
-## 🌐 Links
+## 🌐 Contact
 
 📧 Email  
 habiam.coutinho@gmail.com  
 
 💼 LinkedIn  
-https://www.linkedin.com/in/habia-coutinho
+https://www.linkedin.com/in/habia-coutinho  
 
 📷 Instagram  
 https://www.instagram.com/_maihla
