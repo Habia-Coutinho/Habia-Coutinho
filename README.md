@@ -1,4 +1,4 @@
-# Olá, eu sou Hábia 👋
+# Olá, eu sou Hábia Coutinho 👋
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
 💜 Apaixonada por tecnologia  
