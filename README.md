@@ -1,6 +1,6 @@
 # Hi, I'm Hábia Coutinho 👋
 
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer;Learning+JavaScript;Building+Projects)
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer+in+Training;Learning+HTML+CSS+JavaScript;Building+Projects+Every+Day)
 
 💻 Systems Analysis and Development student  
 💜 Passionate about technology  
