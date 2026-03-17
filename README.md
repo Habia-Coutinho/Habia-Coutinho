@@ -2,7 +2,7 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer+in+Training;Learning+HTML+CSS+JavaScript;Building+Projects+Every+Day)
 
-<img src="https://media.giphy.com/media/1zSz5MVwY1R8LcRzvY/giphy.gif" width="200"/>
+![Purple Code](https://media.tenor.com/IvEx-LpiUo4AAAPO/giphy.gif)
 
 💻 Systems Analysis and Development student  
 💜 Passionate about technology  
