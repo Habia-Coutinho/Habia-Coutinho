@@ -3,7 +3,7 @@
 💻 Systems Analysis and Development student  
 💜 Passionate about technology  
 🌱 Currently learning Front-End development  
-🎯 Building projects to improve as a developer  
+🎯 Building projects to grow as a developer
 
 ---
 
