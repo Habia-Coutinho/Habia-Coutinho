@@ -55,7 +55,7 @@
 habiam.coutinho@gmail.com  
 
 💼 LinkedIn  
-https://www.linkedin.com/Habia-Coutinho
+https://www.linkedin.com/in/habia-coutinho
 
 📷 Instagram  
 https://www.instagram.com/_maihla
