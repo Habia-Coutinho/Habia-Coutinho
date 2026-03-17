@@ -39,6 +39,8 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+![Responsive](https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=css3&logoColor=white)
+
 ---
 
 ## 🛠️ Ferramentas
