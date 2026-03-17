@@ -2,8 +2,6 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer+in+Training;Learning+HTML+CSS+JavaScript;Building+Projects+Every+Day)
 
-![Purple Code](https://media.tenor.com/IvEx-LpiUo4AAAPO/giphy.gif)
-
 💻 Systems Analysis and Development student  
 💜 Passionate about technology  
 🌱 Currently learning Front-End development  
