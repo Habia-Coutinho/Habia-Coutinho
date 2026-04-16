@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./imagens/9cbf071ab2eb3cbed8890ea584c1d388.jpg" width="450" alt="Banner do perfil">
+  <img src="./imagens/banner.jpg" width="450" alt="Banner do perfil">
 </p>
 
 # Hi, I'm Hábia 👋
