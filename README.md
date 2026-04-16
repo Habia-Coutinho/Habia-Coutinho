@@ -1,4 +1,6 @@
-<img src="./imagens/9cbf071ab2eb3cbed8890ea584c1d388.jpg" width="400">
+<p align="center">
+  <img src="./imagens/9cbf071ab2eb3cbed8890ea584c1d388.jpg" width="500" height="300">
+</p>
 
 # Hi, I'm Hábia 👋
 
