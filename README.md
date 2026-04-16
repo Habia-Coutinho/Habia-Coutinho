@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./imagens/9cbf071ab2eb3cbed8890ea584c1d388.jpg" width="600" style="object-fit: cover; height: 350px;">
+  <img src="./imagens/9cbf071ab2eb3cbed8890ea584c1d388.jpg" width="600" style="object-fit: cover; height: 400px;">
 </p>
 
 # Hi, I'm Hábia 👋
