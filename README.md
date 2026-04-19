@@ -1,6 +1,6 @@
-
-  <img src="./Imagens/banner.jpg" width="450" alt="Banner do perfil">
-
+<p align="center">
+  <img src="./Imagens/banner.jpg" width="400" alt="Banner do perfil">
+</p>
 
 # Hi, I'm Hábia 👋
 
