@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./Imagens/banner.jpg" width="450" alt="Banner do perfil">
 </p>
-
+<main align="center">
 # Hi, I'm Hábia 👋
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer+in+Training;Learning+HTML+CSS+JavaScript;Building+Projects+Every+Day)
@@ -73,3 +73,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habia-coutinho)  
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_maihla)
+
+</main>
