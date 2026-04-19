@@ -1,8 +1,6 @@
 
   <img src="./Imagens/banner.jpg" width="400" alt="Banner do perfil">
 
-<main text-align="center">
-
 # Hi, I'm Hábia 👋
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer+in+Training;Learning+HTML+CSS+JavaScript;Building+Projects+Every+Day)
@@ -75,4 +73,3 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_maihla)
 
-</main>
