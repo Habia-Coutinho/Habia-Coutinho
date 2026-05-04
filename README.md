@@ -3,6 +3,9 @@
   <br>
   <img src="./Imagens/banner.jpg" width="100%">
   <br><br>
+
+# Hi, I'm Hábia 👋
+
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer+in+Training;Learning+HTML+CSS+JavaScript;Building+Projects+Every+Day">
 </div>
 
