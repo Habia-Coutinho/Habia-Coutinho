@@ -63,11 +63,14 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habia-Coutinho&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Habia-Coutinho&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habia-Coutinho&layout=compact&theme=tokyonight"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habia-Coutinho&layout=compact&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=Habia-Coutinho&theme=tokyonight)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Habia-Coutinho&theme=tokyonight"/>
+</div>
 
 ---
 
