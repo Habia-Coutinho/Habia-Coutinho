@@ -1,12 +1,10 @@
-
-![Snake animation](https://github.com/Habia-Coutinho/Habia-Coutinho/blob/output/github-contribution-grid-snake.svg)
-
-
-  <img src="./Imagens/banner.jpg" width="100%" alt="Banner do perfil">
-
-# Hi, I'm Hábia 👋
-
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer+in+Training;Learning+HTML+CSS+JavaScript;Building+Projects+Every+Day)
+<div align="center">
+  <img src="https://github.com/Habia-Coutinho/Habia-Coutinho/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <img src="./Imagens/banner.jpg" width="100%">
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer+in+Training;Learning+HTML+CSS+JavaScript;Building+Projects+Every+Day">
+</div>
 
 💻 Systems Analysis and Development student  
 💜 Passionate about technology  
