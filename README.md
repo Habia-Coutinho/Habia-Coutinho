@@ -1,5 +1,8 @@
 
-  <img src="./Imagens/banner.jpg" width="400" alt="Banner do perfil">
+![Snake animation](https://github.com/Habia-Coutinho/Habia-Coutinho/blob/output/github-contribution-grid-snake.svg)
+
+
+  <img src="./Imagens/banner.jpg" width="100%" alt="Banner do perfil">
 
 # Hi, I'm Hábia 👋
 
