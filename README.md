@@ -63,9 +63,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=Habia-Coutinho&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Habia-Coutinho&layout=compact&theme=tokyonight" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Habia-Coutinho&theme=tokyonight" />
+
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Habia-Coutinho&theme=tokyonight" />
 </div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Habia-Coutinho&theme=tokyonight"/>
