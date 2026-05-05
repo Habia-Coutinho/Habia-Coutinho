@@ -6,7 +6,7 @@
 
 # Hi, I'm Hábia 👋
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer+in+Training🚀;Learning+HTML+CSS+JavaScript👩‍💻;Building+Projects+Every+Day💻&color=BA55D3&center=true&vCenter=true&width=500">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀 Front-End+Developer+in+Training;👩‍💻 Learning+HTML+CSS+JavaScript;🌱 Building+Projects+Every+Day&color=BA55D3&center=true&vCenter=true&width=500">
 </div>
 
 💻 Systems Analysis and Development student  
