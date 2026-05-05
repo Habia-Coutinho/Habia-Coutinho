@@ -63,7 +63,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Habia-Coutinho&show_icons=true&theme=tokyonight" />
+  <img height="170em" <img <img src="https://streak-stats.demolab.com?user=Habia-Coutinho&theme=tokyonight"/>
   <img height="170em" <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Habia-Coutinho&layout=compact&theme=tokyonight" />
 </div>
 
