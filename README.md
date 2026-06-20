@@ -11,9 +11,8 @@
 
 👩‍💻 Aspiring Full-Stack Developer
 💜 Passionate about technology
-🌱 Currently learning Front-End development
+🌱 Currently learning Front-End Development
 🎯 Building projects and growing every day
-
 
 ---
 
