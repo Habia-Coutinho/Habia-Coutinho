@@ -28,10 +28,10 @@
 
 ## 🎯 Interests
 
-- Web Development  
-- Interfaces and UX  
-- Responsive Applications  
-- Web Accessibility  
+![Web Development](https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Interfaces and UX](https://img.shields.io/badge/Interfaces_%26_UX-8A2BE2?style=for-the-badge&logo=figma&logoColor=white)
+![Responsive Applications](https://img.shields.io/badge/Responsive_Applications-22C55E?style=for-the-badge&logo=css3&logoColor=white)
+![Web Accessibility](https://img.shields.io/badge/Web_Accessibility-0F766E?style=for-the-badge&logo=w3c&logoColor=white)
 
 ---
 
@@ -49,7 +49,6 @@
 ## 🛠️ Tools
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
