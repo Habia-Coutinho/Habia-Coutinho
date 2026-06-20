@@ -9,10 +9,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer+in+Training;Focused+on+HTML+CSS+JavaScript;Turning+Ideas+into+Real+Projects&color=BA55D3&center=true&vCenter=true&width=500">
 </div>
 
-💻 Systems Analysis and Development student  
-💜 Passionate about technology  
-🌱 Currently learning Front-End development  
-🎯 Building projects to grow as a developer
+👩‍💻 Aspiring Full-Stack Developer
+💜 Passionate about technology
+🌱 Currently learning Front-End development
+🎯 Building projects and growing every day
 
 ---
 
