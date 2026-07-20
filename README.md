@@ -10,9 +10,9 @@
 
 
 
-👩‍💻 Aspiring Full-Stack Web Developer <br>
+👩‍💻 Aspiring Web Developer <br>
 💜 Passionate about technology <br>
-🌱 Currently learning Web Development, focusing on Front-End and Back-End <br>
+🌱 Focused on Front-End Development, expanding into Full Stack <br>
 🎯 Building projects and growing every day <br>
 
 ---
