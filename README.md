@@ -6,8 +6,7 @@
 
 # Hi, I'm Hábia 👋
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web-+Developer+in+Training;Focused+on+Front-+End+Development; Building+Responsive+Web+Projects&color=BA55D3&center=true&vCenter=true&width=500">
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer+in+Training;Focused+on+Front-End+Development;Creating+Responsive+and+Accessible+Interfaces&color=BA55D3&center=true&vCenter=true&width=500">
 
 👩‍💻 Aspiring Full-Stack Web Developer <br>
 💜 Passionate about technology <br>
