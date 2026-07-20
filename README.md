@@ -9,10 +9,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Web-+Developer+in+Training;Focused+on+Front-+End+Development; Building+Responsive+Web+Projects&color=BA55D3&center=true&vCenter=true&width=500">
 </div>
 
-👩‍💻 Aspiring Full-Stack Web Developer
-💜 Passionate about technology
-🌱 Currently learning Web Development, focusing on Front-End and Back-End
-🎯 Building projects and growing every day
+👩‍💻 Aspiring Full-Stack Web Developer <br>
+💜 Passionate about technology <br>
+🌱 Currently learning Web Development, focusing on Front-End and Back-End <br>
+🎯 Building projects and growing every day <br>
 
 ---
 
