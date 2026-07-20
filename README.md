@@ -1,19 +1,23 @@
 <div align="center">
   <img src="https://github.com/Habia-Coutinho/Habia-Coutinho/raw/output/github-contribution-grid-snake.svg">
-  <br>
-  <img src="./Imagens/banner.jpg" width="100%">
+
+  <img src="./Imagens/banner.jpg" width="70%">
   <br><br>
 
 # Hi, I'm Hábia 👋
 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer+in+Training;Focused+on+Front-End+Development;Building+Responsive+Web+Projects&color=BA55D3&center=true&vCenter=true&width=500">
 
+</div>
 
+<div align="center">
 
-👩‍💻 Aspiring Web Developer <br>
-💜 Passionate about technology <br>
-🌱 Focused on Front-End Development, expanding into Full Stack <br>
-🎯 Building projects and growing every day <br>
+👩‍💻 Aspiring Web Developer
+💜 Passionate about technology 
+🌱 Focused on Front-End Development, expanding into Full Stack
+🎯 Building projects and growing every day 
+
+</div>
 
 ---
 
@@ -27,6 +31,8 @@
 
 ---
 
+<div align="center">
+  
 ## 🎯 Interests
 
 ![Web Development](https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)
@@ -67,6 +73,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
 ---
 
