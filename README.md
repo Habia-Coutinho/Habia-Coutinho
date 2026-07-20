@@ -6,12 +6,12 @@
 
 # Hi, I'm Hábia 👋
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer+in+Training;Focused+on+HTML+CSS+JavaScript;Turning+Ideas+into+Real+Projects&color=BA55D3&center=true&vCenter=true&width=500">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web-+Developer+in+Training;Focused+on+Front-+End+Development; Building+Responsive+Web+Projects&color=BA55D3&center=true&vCenter=true&width=500">
 </div>
 
-👩‍💻 Aspiring Full-Stack Developer
+👩‍💻 Aspiring Full-Stack Web Developer
 💜 Passionate about technology
-🌱 Currently learning Front-End Development
+🌱 Currently learning Web Development, focusing on Front-End and Back-End
 🎯 Building projects and growing every day
 
 ---
@@ -21,7 +21,7 @@
 > I am passionate about technology and enjoy understanding how things work.
 
 - 🇧🇷 Brazil  
-- 💻 Studying Front-End Development  
+- 💻 Studying Web Development
 - 🌱 Always learning something new  
 
 ---
@@ -29,8 +29,9 @@
 ## 🎯 Interests
 
 ![Web Development](https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Interfaces and UX](https://img.shields.io/badge/Interfaces_%26_UX-8A2BE2?style=for-the-badge&logo=figma&logoColor=white)
-![Responsive Applications](https://img.shields.io/badge/Responsive_Applications-22C55E?style=for-the-badge&logo=css3&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web_Development-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-8A2BE2?style=for-the-badge&logo=figma&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-22C55E?style=for-the-badge&logo=css3&logoColor=white)
 ![Web Accessibility](https://img.shields.io/badge/Web_Accessibility-0F766E?style=for-the-badge&logo=w3c&logoColor=white)
 
 ---
