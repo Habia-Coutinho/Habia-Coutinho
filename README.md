@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Habia-Coutinho/Habia-Coutinho/raw/output/github-contribution-grid-snake.svg">
 
-  <img src="./Imagens/banner.jpg" width="70%">
+  <img src="./Imagens/banner.jpg" width="50%">
   <br><br>
 
 # Hi, I'm Hábia 👋
