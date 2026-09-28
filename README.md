@@ -2,10 +2,6 @@
   <img src="./Imagens/banner.jpg" width="50%">
   <br><br>
 
-<p align="center">
-  <img src="./header.svg" width="100%">
-</p>
-
 # Hi, I'm Hábia 👋
 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer+in+Training;Focused+on+Front-End+Development;Building+Responsive+Web+Projects&color=BA55D3&center=true&vCenter=true&width=500">
