@@ -1,0 +1,428 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="360"
+     viewBox="0 0 1200 360">
+
+  <title>Hábia Coutinho - Front-End Developer em formação</title>
+
+  <defs>
+
+    <radialGradient id="bg" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#2A174A"/>
+      <stop offset="50%" stop-color="#1A0F2E"/>
+      <stop offset="100%" stop-color="#0D0D0D"/>
+    </radialGradient>
+
+    <linearGradient id="name" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C084FC"/>
+      <stop offset="50%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#A855F7" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- FUNDO -->
+
+  <rect width="1200"
+        height="360"
+        rx="18"
+        fill="url(#bg)"/>
+
+  <ellipse cx="600"
+           cy="180"
+           rx="430"
+           ry="140"
+           fill="#7C3AED"
+           opacity="0.08"/>
+
+
+  <!-- LINHAS DECORATIVAS -->
+
+  <line x1="40"
+        y1="80"
+        x2="300"
+        y2="80"
+        stroke="url(#line)"
+        stroke-width="1"/>
+
+  <line x1="900"
+        y1="80"
+        x2="1160"
+        y2="80"
+        stroke="url(#line)"
+        stroke-width="1"/>
+
+  <line x1="40"
+        y1="280"
+        x2="320"
+        y2="280"
+        stroke="url(#line)"
+        stroke-width="1"/>
+
+  <line x1="880"
+        y1="280"
+        x2="1160"
+        y2="280"
+        stroke="url(#line)"
+        stroke-width="1"/>
+
+
+  <!-- LINHA ANIMADA -->
+
+  <rect x="60"
+        y="79"
+        width="180"
+        height="2"
+        fill="#A855F7"
+        opacity="0.6">
+
+    <animate
+      attributeName="x"
+      values="60;180;60"
+      dur="5s"
+      repeatCount="indefinite"/>
+
+  </rect>
+
+
+  <!-- CANTOS HUD -->
+
+  <g fill="none"
+     stroke="#7C3AED"
+     stroke-width="1"
+     opacity="0.7">
+
+    <path d="M55 105 V125 H75"/>
+    <path d="M1145 105 V125 H1125"/>
+
+    <path d="M55 255 V235 H75"/>
+    <path d="M1145 255 V235 H1125"/>
+
+  </g>
+
+
+  <!-- INDICADORES -->
+
+  <circle cx="72"
+          cy="105"
+          r="2"
+          fill="#C084FC">
+
+    <animate
+      attributeName="opacity"
+      values="0.2;1;0.2"
+      dur="2s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+  <circle cx="1128"
+          cy="105"
+          r="2"
+          fill="#C084FC">
+
+    <animate
+      attributeName="opacity"
+      values="1;0.2;1"
+      dur="2.5s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <!-- SIMBOLO DE CODIGO -->
+
+  <text x="110"
+        y="170"
+        font-family="monospace"
+        font-size="36"
+        fill="#A855F7"
+        opacity="0.35">
+
+    &lt;/&gt;
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0;0 -10;0 0"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+  </text>
+
+
+  <text x="1030"
+        y="205"
+        font-family="monospace"
+        font-size="36"
+        fill="#A855F7"
+        opacity="0.35">
+
+    { }
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0;0 10;0 0"
+      dur="4.5s"
+      repeatCount="indefinite"/>
+
+  </text>
+
+
+  <!-- PARTICULAS -->
+
+  <circle cx="250"
+          cy="115"
+          r="2"
+          fill="#C084FC">
+
+    <animate
+      attributeName="cy"
+      values="115;90;115"
+      dur="3.5s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="opacity"
+      values="0.2;1;0.2"
+      dur="3.5s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <circle cx="330"
+          cy="250"
+          r="1.5"
+          fill="#C084FC">
+
+    <animate
+      attributeName="cy"
+      values="250;225;250"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="opacity"
+      values="0.1;0.9;0.1"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <circle cx="900"
+          cy="120"
+          r="1.5"
+          fill="#C084FC">
+
+    <animate
+      attributeName="cy"
+      values="120;95;120"
+      dur="3s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="opacity"
+      values="0.2;1;0.2"
+      dur="3s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <circle cx="970"
+          cy="250"
+          r="2"
+          fill="#C084FC">
+
+    <animate
+      attributeName="cy"
+      values="250;225;250"
+      dur="4.5s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="opacity"
+      values="0.1;1;0.1"
+      dur="4.5s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <!-- PONTOS -->
+
+  <g fill="#7C3AED">
+
+    <circle cx="300" cy="70" r="1.5"/>
+    <circle cx="340" cy="70" r="1.5"/>
+    <circle cx="380" cy="70" r="1.5"/>
+
+    <circle cx="820" cy="70" r="1.5"/>
+    <circle cx="860" cy="70" r="1.5"/>
+    <circle cx="900" cy="70" r="1.5"/>
+
+  </g>
+
+
+  <!-- NOME -->
+
+  <text x="600"
+        y="165"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="58"
+        font-weight="700"
+        letter-spacing="7"
+        fill="url(#name)"
+        filter="url(#glow)">
+
+    HÁBIA COUTINHO
+
+    <animate
+      attributeName="opacity"
+      values="0.8;1;0.8"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+  </text>
+
+
+  <!-- LINHA ABAIXO DO NOME -->
+
+  <rect x="420"
+        y="190"
+        width="360"
+        height="1"
+        fill="#7C3AED"
+        opacity="0.7">
+
+    <animate
+      attributeName="width"
+      values="180;360;180"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="x"
+      values="510;420;510"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+  </rect>
+
+
+  <!-- SUBTITULO -->
+
+  <text x="600"
+        y="225"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="19"
+        letter-spacing="3"
+        fill="#E9D5FF">
+
+    Front-End Developer em formação
+
+  </text>
+
+
+  <!-- FRASE DE CODIGO -->
+
+  <text x="600"
+        y="265"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="13"
+        letter-spacing="2"
+        fill="#A855F7"
+        opacity="0.8">
+
+    &lt; code • create • learn • evolve /&gt;
+
+    <animate
+      attributeName="opacity"
+      values="0.35;0.8;0.35"
+      dur="3s"
+      repeatCount="indefinite"/>
+
+  </text>
+
+
+  <!-- CURSOR -->
+
+  <rect x="815"
+        y="252"
+        width="7"
+        height="17"
+        fill="#A855F7">
+
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="0.9s"
+      repeatCount="indefinite"/>
+
+  </rect>
+
+
+  <!-- SCANLINE -->
+
+  <rect x="100"
+        y="90"
+        width="1000"
+        height="1"
+        fill="#A855F7"
+        opacity="0.12">
+
+    <animate
+      attributeName="y"
+      values="90;270;90"
+      dur="7s"
+      repeatCount="indefinite"/>
+
+  </rect>
+
+
+  <!-- INFORMACOES INFERIORES -->
+
+  <text x="55"
+        y="320"
+        font-family="monospace"
+        font-size="10"
+        fill="#7C3AED"
+        opacity="0.55">
+
+    SYSTEM: FRONT-END
+
+  </text>
+
+
+  <text x="1040"
+        y="320"
+        font-family="monospace"
+        font-size="10"
+        fill="#7C3AED"
+        opacity="0.55">
+
+    STATUS: LEARNING
+
+  </text>
+
+</svg>
