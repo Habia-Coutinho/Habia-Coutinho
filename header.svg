@@ -3,7 +3,7 @@
      height="360"
      viewBox="0 0 1200 360">
 
-  <title>Hábia Coutinho - Front-End Developer em formação</title>
+  <title>Hábia Coutinho - Front-End Developer in Training</title>
 
   <defs>
 
@@ -35,7 +35,7 @@
 
   </defs>
 
-  <!-- FUNDO -->
+  <!-- BACKGROUND -->
 
   <rect width="1200"
         height="360"
@@ -50,7 +50,7 @@
            opacity="0.08"/>
 
 
-  <!-- LINHAS DECORATIVAS -->
+  <!-- DECORATIVE LINES -->
 
   <line x1="40"
         y1="80"
@@ -81,7 +81,7 @@
         stroke-width="1"/>
 
 
-  <!-- LINHA ANIMADA -->
+  <!-- ANIMATED LINE -->
 
   <rect x="60"
         y="79"
@@ -99,7 +99,7 @@
   </rect>
 
 
-  <!-- CANTOS HUD -->
+  <!-- HUD CORNERS -->
 
   <g fill="none"
      stroke="#7C3AED"
@@ -115,7 +115,7 @@
   </g>
 
 
-  <!-- INDICADORES -->
+  <!-- INDICATORS -->
 
   <circle cx="72"
           cy="105"
@@ -144,7 +144,7 @@
   </circle>
 
 
-  <!-- SIMBOLO DE CODIGO -->
+  <!-- CODE SYMBOL -->
 
   <text x="110"
         y="170"
@@ -184,7 +184,7 @@
   </text>
 
 
-  <!-- PARTICULAS -->
+  <!-- PARTICLES -->
 
   <circle cx="250"
           cy="115"
@@ -266,7 +266,7 @@
   </circle>
 
 
-  <!-- PONTOS -->
+  <!-- DOTS -->
 
   <g fill="#7C3AED">
 
@@ -281,7 +281,7 @@
   </g>
 
 
-  <!-- NOME -->
+  <!-- NAME -->
 
   <text x="600"
         y="165"
@@ -304,7 +304,7 @@
   </text>
 
 
-  <!-- LINHA ABAIXO DO NOME -->
+  <!-- LINE BELOW NAME -->
 
   <rect x="420"
         y="190"
@@ -328,7 +328,7 @@
   </rect>
 
 
-  <!-- SUBTITULO -->
+  <!-- SUBTITLE -->
 
   <text x="600"
         y="225"
@@ -338,12 +338,12 @@
         letter-spacing="3"
         fill="#E9D5FF">
 
-    Front-End Developer em formação
+    Front-End Developer in Training
 
   </text>
 
 
-  <!-- FRASE DE CODIGO -->
+  <!-- CODE PHRASE -->
 
   <text x="600"
         y="265"
@@ -400,7 +400,7 @@
   </rect>
 
 
-  <!-- INFORMACOES INFERIORES -->
+  <!-- BOTTOM INFORMATION -->
 
   <text x="55"
         y="320"
