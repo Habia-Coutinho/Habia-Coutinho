@@ -37,13 +37,13 @@
 <br>
 
 <p align="center">
-  <code>> learning...</code>
+  <code>&gt; learning...</code>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <code>> building...</code>
+  <code>&gt; building...</code>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <code>> experimenting...</code>
+  <code>&gt; experimenting...</code>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <code>> improving...</code>
+  <code>&gt; improving...</code>
 </p>
 
 <p align="center">
