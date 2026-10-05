@@ -1,0 +1,262 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="220"
+     viewBox="0 0 1200 220">
+
+  <title>Hábia Coutinho - Keep Building</title>
+
+  <defs>
+
+    <linearGradient id="background"
+                    x1="0%"
+                    y1="0%"
+                    x2="100%"
+                    y2="0%">
+      <stop offset="0%" stop-color="#0D0D0D"/>
+      <stop offset="50%" stop-color="#1A0F2E"/>
+      <stop offset="100%" stop-color="#0D0D0D"/>
+    </linearGradient>
+
+    <linearGradient id="lineGradient"
+                    x1="0%"
+                    y1="0%"
+                    x2="100%"
+                    y2="0%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#A855F7" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow"
+            x="-50%"
+            y="-50%"
+            width="200%"
+            height="200%">
+      <feGaussianBlur stdDeviation="4"
+                      result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+
+  <!-- FUNDO -->
+
+  <rect x="0"
+        y="0"
+        width="1200"
+        height="220"
+        rx="18"
+        fill="url(#background)"/>
+
+
+  <!-- LINHA SUPERIOR -->
+
+  <rect x="100"
+        y="35"
+        width="1000"
+        height="1"
+        fill="url(#lineGradient)"/>
+
+
+  <!-- LINHA ANIMADA -->
+
+  <rect x="100"
+        y="34"
+        width="140"
+        height="2"
+        fill="#A855F7"
+        opacity="0.8">
+
+    <animate
+      attributeName="x"
+      from="100"
+      to="960"
+      dur="6s"
+      repeatCount="indefinite"/>
+
+  </rect>
+
+
+  <!-- SIMBOLO ESQUERDO -->
+
+  <text x="120"
+        y="108"
+        font-family="monospace"
+        font-size="32"
+        fill="#7C3AED"
+        opacity="0.5">
+
+    &lt;/&gt;
+
+  </text>
+
+
+  <!-- SIMBOLO DIREITO -->
+
+  <text x="1035"
+        y="108"
+        font-family="monospace"
+        font-size="32"
+        fill="#7C3AED"
+        opacity="0.5">
+
+    { }
+
+  </text>
+
+
+  <!-- TITULO -->
+
+  <text x="600"
+        y="105"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="30"
+        font-weight="600"
+        letter-spacing="4"
+        fill="#E9D5FF"
+        filter="url(#glow)">
+
+    &lt; KEEP BUILDING /&gt;
+
+  </text>
+
+
+  <!-- ANIMACAO DO TITULO -->
+
+  <text x="600"
+        y="105"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="30"
+        font-weight="600"
+        letter-spacing="4"
+        fill="#E9D5FF"
+        opacity="0">
+
+    &lt; KEEP BUILDING /&gt;
+
+    <animate
+      attributeName="opacity"
+      values="0;0.25;0"
+      dur="4s"
+      repeatCount="indefinite"/>
+
+  </text>
+
+
+  <!-- SUBTITULO -->
+
+  <text x="600"
+        y="137"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="13"
+        letter-spacing="2"
+        fill="#A855F7">
+
+    learn • create • improve • repeat
+
+  </text>
+
+
+  <!-- PARTICULA 1 -->
+
+  <circle cx="300"
+          cy="160"
+          r="2"
+          fill="#C084FC">
+
+    <animate
+      attributeName="cy"
+      values="160;145;160"
+      dur="3s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="opacity"
+      values="0.2;1;0.2"
+      dur="3s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <!-- PARTICULA 2 -->
+
+  <circle cx="900"
+          cy="160"
+          r="2"
+          fill="#C084FC">
+
+    <animate
+      attributeName="cy"
+      values="160;145;160"
+      dur="3.5s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="opacity"
+      values="0.2;1;0.2"
+      dur="3.5s"
+      repeatCount="indefinite"/>
+
+  </circle>
+
+
+  <!-- PEQUENOS PONTOS -->
+
+  <circle cx="400"
+          cy="160"
+          r="1.5"
+          fill="#7C3AED"/>
+
+  <circle cx="800"
+          cy="160"
+          r="1.5"
+          fill="#7C3AED"/>
+
+
+  <!-- LINHA INFERIOR -->
+
+  <rect x="100"
+        y="180"
+        width="1000"
+        height="1"
+        fill="url(#lineGradient)"/>
+
+
+  <!-- STATUS ESQUERDO -->
+
+  <text x="120"
+        y="202"
+        font-family="monospace"
+        font-size="9"
+        fill="#7C3AED"
+        opacity="0.6">
+
+    STATUS: LEARNING
+
+  </text>
+
+
+  <!-- STATUS DIREITO -->
+
+  <text x="1080"
+        y="202"
+        text-anchor="end"
+        font-family="monospace"
+        font-size="9"
+        fill="#7C3AED"
+        opacity="0.6">
+
+    SYSTEM: ONLINE
+
+  </text>
+
+
+</svg>
